@@ -4,21 +4,6 @@ Aegis is a defense-only merchant risk platform that combines **transaction risk 
 
 It is designed as a **decision-support system**: every module produces a score, flag, or evidence draft for human review. Aegis does not automatically block accounts, submit disputes, or take financial actions.
 
-## 🎥 Demo
-
-**[▶ Watch the 5-Minute Demo](--)**
-
-The demo walks through:
-- Transaction risk scoring and explainability
-- Merchant-specific risk profiles
-- Fraud-spike detection
-- Graph-based abuse-ring detection
-- Chargeback win-likelihood and evidence drafting
-- Cost-aware threshold optimization
-- Model metrics, audit logs, and model lineage
-- Grounded AI copilot
-
----
 
 ## 🚀 What Aegis Does
 
